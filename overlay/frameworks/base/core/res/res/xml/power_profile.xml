@@ -18,6 +18,10 @@
     <item name="battery.capacity">3600</item>
     <item name="cpu.suspend">3.7</item>
     <item name="cpu.idle">9.5</item>
+    <array name="cpu.clusters.cores">
+        <value>4</value>
+        <value>4</value>
+    </array>
     <array name="cpu.core_speeds.cluster0">
         <value>1872000</value>
         <value>1794000</value>
@@ -35,7 +39,41 @@
         <value>546000</value>
         <value>449000</value>
     </array>
+    <array name="cpu.core_speeds.cluster1">
+        <value>1872000</value>
+        <value>1794000</value>
+        <value>1690000</value>
+        <value>1586000</value>
+        <value>1482000</value>
+        <value>1352000</value>
+        <value>1242000</value>
+        <value>1144000</value>
+        <value>1014000</value>
+        <value>962000</value>
+        <value>845000</value>
+        <value>757000</value>
+        <value>676000</value>
+        <value>546000</value>
+        <value>449000</value>
+    </array>
     <array name="cpu.core_power.cluster0">
+        <value>127</value>
+        <value>117</value>
+        <value>104</value>
+        <value>88</value>
+        <value>78</value>
+        <value>67</value>
+        <value>59</value>
+        <value>56</value>
+        <value>51</value>
+        <value>45</value>
+        <value>37</value>
+        <value>36</value>
+        <value>32</value>
+        <value>27</value>
+        <value>25</value>
+    </array>
+    <array name="cpu.core_power.cluster1">
         <value>127</value>
         <value>117</value>
         <value>104</value>
